@@ -4,6 +4,7 @@
   * micro-sd form-factor pcb with 0.5mm ffc/fpc connector, 
     * connect to panel board via 8-pin 0.5mm opposite-side-conductors ffc cable; 
     * ideally pcb thickness should be 0.6mm but this makes pcb expensive (currently trying 1.0mm, 0.8mm)
+  * right-angle mounting block to fasten panel-side pcb to front-panel using m2.5 thread screw)
   
 ## warning: untested concept work-in-progress, use with caution...
 
