@@ -7,7 +7,7 @@
    
 ## option 2
  * https://github.com/dgouramanis/usdextendercable
-   * Based on the work above - I have extended for the female board with mounting holes
+   * Based on the work above - I've extended the female board with 4 M2.5 mounting holes
  
 ## warning: untested concept work-in-progress, use with caution...
 
