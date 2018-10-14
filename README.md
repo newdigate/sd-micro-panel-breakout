@@ -8,6 +8,9 @@
   
 ## warning: untested concept work-in-progress, use with caution...
 
+## why
+I have a micro-controller mounted behind a front panel. The sd-card reader is fixed to the micro-controller board and is unaccessable to the user. I'd like to allow the user to access the sd-card reader via the front panel. I did have much success looking for panel mount sd-card extenders unfortunetely. There does seems to be one micro-sd extender commonly available, but it doesnt seem to have any way to mount it at a right-angle on the front-panel. 
+
 ## circuit hub
 * [sd-card-extender-male](https://circuithub.com/projects/newdigate/sd-card-extender-male/revisions/17839)
 * [sd-card-extender](https://circuithub.com/projects/newdigate/sd-card-extender/revisions/17837)
