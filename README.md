@@ -1,4 +1,4 @@
-# sd-micro panel-mount breakou/extender
+# sd-micro panel-mount breakout/extender
 * panel-mount micro-sd breakout/extension diy project
   * panel-mount pc-board for micro sd-card female to 0.5mm ffc/fpc connector
   * micro-sd form-factor pcb with 0.5mm ffc/fpc connector, 
