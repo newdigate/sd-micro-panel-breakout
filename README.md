@@ -8,4 +8,9 @@
 ## warning: untested concept work-in-progress, use with caution...
 # circuit hub
 * [sd-card-extender-male](https://circuithub.com/projects/newdigate/sd-card-extender-male/revisions/17839)
-*[sd-card-extender](https://circuithub.com/projects/newdigate/sd-card-extender/revisions/17837)
+* [sd-card-extender](https://circuithub.com/projects/newdigate/sd-card-extender/revisions/17837)
+
+![concept](images/SD-extender-demo.png)
+![male side](images/sd-card-male.png)
+![female side](images/sd-card-panel-2.png)
+![right-angle panel mounting block](images/SD%20adapter%20panel%20mounting%20block.png)
