@@ -6,7 +6,7 @@
    * unforunately, nothing to mount pcb against front panel
    
 ## option 2
- * https://github.com/dgouramanis/usdextendercable
+ * https://github.com/newdigate/usdextendercable
    * Based on the work above - I've extended the female board with 4 M2.5 mounting holes
  
 ## warning: untested concept work-in-progress, use with caution...
