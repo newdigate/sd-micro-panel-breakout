@@ -16,3 +16,5 @@ I have a micro-controller mounted behind a front panel. The sd-card reader is fi
 * [sd-card-extender](https://circuithub.com/projects/newdigate/sd-card-extender/revisions/17837)
 
 <img src="images/SD-extender-demo.png" height="200px"/><img src="images/sd-card-male.png" height="200px"/><img src="images/sd-card-panel-2.png" height="200px"/><img src="images/SD%20adapter%20panel%20mounting%20block.png" height="200px"/>
+
+<img src="images/sd%20breakout%20drawing.png" height="700px"/>
